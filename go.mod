@@ -1,3 +1,3 @@
-module cdlab.cdlan.net/cdlan/lib/healthchecks
+module github.com/cdlan/lib-healthchecks
 
 go 1.21.4
